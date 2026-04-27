@@ -4,7 +4,7 @@ Memento is a useful example of context compression for reasoning models.
 
 ## Why It Matters
 
-The paper teaches models to summarize reasoning blocks into compact mementos and continue from those summaries. For builders, the broader lesson is that durable compressed state can be more useful than storing every detail.
+The paper teaches models to summarize reasoning blocks into compact mementos and continue from those summaries. The raw summary reports large KV-cache reductions and practical throughput gains. For builders, the broader lesson is that durable compressed state can be more useful than storing every detail.
 
 ## Key Ideas
 
@@ -12,6 +12,7 @@ The paper teaches models to summarize reasoning blocks into compact mementos and
 - Compact mementos
 - Context reduction
 - Continued reasoning from summaries
+- Throughput gains from shorter active context
 
 ## Connection To This Demo
 

@@ -35,6 +35,6 @@ The key idea is simple. The knowledge base gets better every time the agent read
 
 ## Source Inspiration
 
-The sample raw notes are inspired by DAIR.AI's AI Papers of the Week collection:
+The sample raw notes are copied from DAIR.AI's AI Papers of the Week weekly summary tables:
 
 https://github.com/dair-ai/AI-Papers-of-the-Week

@@ -2,18 +2,19 @@
 
 ## Session Goal
 
-Show participants how to build a simple LLM knowledge base from raw markdown notes using an agent as the compiler.
+Show participants how to build a simple LLM knowledge base from raw AI Papers of the Week summary tables using an agent as the compiler.
 
 ## Flow
 
 1. Explain the architecture.
 2. Open the `raw/` folder.
-3. Compile the first `wiki/index.md`.
-4. Create one paper page.
-5. Create one concept page.
-6. Ask a useful research question.
-7. File the answer back into the wiki.
-8. Run a lint pass and choose the next page.
+3. Show the three weekly source batches.
+4. Compile `wiki/index.md`.
+5. Create paper pages across the batches.
+6. Create concept pages that connect papers.
+7. Ask a useful research question.
+8. File the answer back into the wiki.
+9. Run a lint pass and choose the next page.
 
 ## Demo Question
 
@@ -21,7 +22,7 @@ What should builders read first if they want to understand agent memory and long
 
 ## Expected Output
 
-The answer should point to AiScientist, Memento, AlphaEval, File-as-Bus, and Context Compression. It should be saved under `wiki/questions/`.
+The answer should point to AiScientist, Memento, Stateless Decision Memory, AlphaEval, Universal Verifier, File-as-Bus, and Context Compression. It should be saved under `wiki/questions/`.
 
 ## Teaching Point
 

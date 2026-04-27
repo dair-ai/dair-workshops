@@ -4,7 +4,7 @@ Memory Intelligence Agent is useful because it separates memory management from 
 
 ## Why It Matters
 
-Research agents need to decide what to keep, what to retrieve, and what to compress. A separate memory manager makes this responsibility explicit.
+Research agents need to decide what to keep, what to retrieve, what to compress, and what to internalize. A separate memory manager makes this responsibility explicit.
 
 ## Key Ideas
 
@@ -12,6 +12,7 @@ Research agents need to decide what to keep, what to retrieve, and what to compr
 - Planner
 - Executor
 - Conversion between retrieved context and internalized knowledge
+- Test-time memory updates for evolving information
 
 ## Connection To This Demo
 

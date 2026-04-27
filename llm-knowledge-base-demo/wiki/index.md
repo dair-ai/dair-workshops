@@ -1,6 +1,6 @@
 # LLM Knowledge Base Demo
 
-This wiki was compiled from a small `raw/` folder inspired by DAIR.AI's AI Papers of the Week collection. It demonstrates the Karpathy-style pattern where an LLM reads raw markdown and produces a structured, interlinked research wiki.
+This wiki was compiled from three raw weekly summary tables copied from DAIR.AI's AI Papers of the Week collection. It demonstrates the Karpathy-style pattern where an LLM reads raw markdown and produces a structured, interlinked research wiki.
 
 ## Start Here
 
@@ -8,6 +8,7 @@ This wiki was compiled from a small `raw/` folder inspired by DAIR.AI's AI Paper
 - [[trends/agent-memory-and-research-agents|Trend: Agent Memory and Research Agents]]
 - [[concepts/file-as-bus|Concept: File-as-Bus]]
 - [[concepts/context-compression|Concept: Context Compression]]
+- [[concepts/production-agent-evaluation|Concept: Production Agent Evaluation]]
 - [[questions/what-should-builders-read-first|Question: What Should Builders Read First?]]
 
 ## Source Batches
@@ -21,8 +22,14 @@ This wiki was compiled from a small `raw/` folder inspired by DAIR.AI's AI Paper
 - [[papers/automated-weak-to-strong-researcher|Automated Weak-to-Strong Researcher]]
 - [[papers/aiscientist|AiScientist]]
 - [[papers/alphaeval|AlphaEval]]
+- [[papers/autogenesis|Autogenesis]]
+- [[papers/deepseek-v4|DeepSeek V4]]
 - [[papers/memento|Memento]]
 - [[papers/memory-intelligence-agent|Memory Intelligence Agent]]
+- [[papers/neural-computers|Neural Computers]]
+- [[papers/skill-rag|Skill-RAG]]
+- [[papers/stateless-decision-memory|Stateless Decision Memory]]
+- [[papers/universal-verifier|Universal Verifier]]
 
 ## Concept Pages
 
@@ -33,4 +40,4 @@ This wiki was compiled from a small `raw/` folder inspired by DAIR.AI's AI Paper
 
 ## Maintenance Notes
 
-The next compiler pass should add backlinks from every paper to the concept pages, then create thin pages for Neural Computers, WebXSkill, RLM, and Single-Agent LLMs vs. Multi-Agent Systems.
+The next compiler pass should add thin pages for WebXSkill, Agent Skills in the Wild, Single-Agent LLMs vs. Multi-Agent Systems, Diversity Collapse in Multi-Agent LLMs, Attention to Mamba, and Self-Generated World Knowledge.

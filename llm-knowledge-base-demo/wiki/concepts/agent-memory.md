@@ -4,7 +4,7 @@ Agent memory is the set of durable artifacts, summaries, procedures, and retriev
 
 ## Useful Distinction
 
-Raw logs are not the same as memory. Good memory is curated. It captures reusable lessons, stable facts, failed attempts, and next actions.
+Raw logs are not the same as memory. Good memory is curated. It captures reusable lessons, stable facts, failed attempts, decision rationale, and next actions.
 
 ## Patterns In The Source Notes
 
@@ -12,6 +12,9 @@ Raw logs are not the same as memory. Good memory is curated. It captures reusabl
 - Memento compresses reasoning into compact state.
 - Memory Intelligence Agent separates memory management from planning and execution.
 - Memory Transfer Learning emphasizes abstract procedural insights.
+- Stateless Decision Memory stores decisions as immutable event logs.
+- Autogenesis treats validated improvements as versioned operational memory.
+- Self-Generated World Knowledge rewards knowledge that improves task success.
 
 ## Open Questions
 
@@ -19,3 +22,11 @@ Raw logs are not the same as memory. Good memory is curated. It captures reusabl
 - What should be compiled into a concept page?
 - What should be discarded after a run?
 - Which memories transfer across projects?
+
+## Related Pages
+
+- [[../papers/aiscientist|AiScientist]]
+- [[../papers/memento|Memento]]
+- [[../papers/memory-intelligence-agent|Memory Intelligence Agent]]
+- [[../papers/stateless-decision-memory|Stateless Decision Memory]]
+- [[../papers/autogenesis|Autogenesis]]

@@ -4,7 +4,7 @@ AiScientist is useful for this workshop because it turns long-horizon research a
 
 ## Why It Matters
 
-The paper argues that research agents need durable state. Rather than relying only on a long chat transcript, the system stores plans, analyses, logs, and evidence in files.
+The paper argues that research agents need durable state. Rather than relying only on a long chat transcript, the system stores plans, analyses, logs, and evidence in files. The raw summary reports strong benchmark gains and notes that removing File-as-Bus sharply reduces performance.
 
 ## Key Ideas
 
@@ -12,6 +12,7 @@ The paper argues that research agents need durable state. Rather than relying on
 - Thin top-level control
 - Rich workspace state
 - Specialist agents that can recover context from artifacts
+- Workspace artifacts as persistent project memory
 
 ## Connection To This Demo
 
