@@ -12,6 +12,7 @@ This wiki was compiled from a small `raw/` folder inspired by DAIR.AI's AI Paper
 
 ## Source Batches
 
+- April 19 to April 26, 2026
 - April 13 to April 19, 2026
 - April 6 to April 12, 2026
 
