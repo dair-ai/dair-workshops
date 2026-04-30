@@ -6,7 +6,7 @@ Record of major actions on the AI Agent Engineering wiki.
 
 ## 2026-04-28 — Initial Scaffolding
 
-- Created wiki with `init_wiki.sh agent-engineering --title "AI Agent Engineering" --flavor domain`
+- Created wiki with `init_wiki.sh agent-engineering --title "AI Agent Engineering" --flavor domain` (renamed to `agentic-engineering-wiki` on 2026-04-29)
 - Established directory structure: `tips/`, `companies/`, `papers/`, `tools/`, `community/`
 - Wrote `wiki.config.md` with full templates, flexibility guidelines, and future-proofing notes
 - Created 7 tip category pages: tool-use, evaluation, prompting, orchestration, memory, reliability, deployment

@@ -2,7 +2,7 @@
 
 ## Identity
 
-- **Slug:** `agent-engineering`
+- **Slug:** `agentic-engineering`
 - **Title:** AI Agent Engineering
 - **Flavor:** domain (with organization + paper elements)
 - **Created:** 2026-04-28
